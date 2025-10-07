@@ -21,7 +21,7 @@ const TELEGRAM_TOKEN = '8422146946:AAF3MXu0dfIh1t0KkX_TWLqvKN7YV4Vulw8';
 const ADMIN_IDS = ['7604667042'];
 
 // 3. 🌐 رابط الاستضافة (سيتغير بعد رفع الملفات)
-const SERVER_URL = 'https://your-app-name.onrender.com';
+const SERVER_URL = 'https://king13-tl11.onrender.com';
 
 // ================================
 // 🚀 لا تعدل أي شيء تحت هذا السطر
